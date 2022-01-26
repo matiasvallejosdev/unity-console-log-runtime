@@ -36,12 +36,12 @@ This repository contains a unity package to show in-game debug logs at runtime. 
 
 ## Installation
 
-1. Download unity packages from [here]("").
+1. Download unity packages from [here](https://github.com/matiasvallejosdev/unity-console-log-runtime/releases/download/v1.0.0/console-runtime.unitypackage).
 2. Add ConsoleAnchor prefab to Scene.
 3. Run tests files to check dependeces.
 4. Enjoy your Console.
 
-If you need to test console in AR, you can download .apk file [here]("") to test it on android devices. 
+If you need to test console in AR, you can download .apk file [here](https://github.com/matiasvallejosdev/unity-console-log-runtime/releases/download/v1.0.0/ar-console-runtime-test.apk) to test it on android devices. 
 
 ## Screenshoot
 Ar Application Screenshoot on Android Device.
