@@ -1,4 +1,4 @@
-<h1 align="center"> Unity Image Classifier </h1>
+<h1 align="center"> Unity Console Runtime </h1>
   <div align="center">
 
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/matiasvallejosdev/unity-console-log-runtime?color=4cc51e)](https://github.com/matiasvallejosdev/unity-console-log-runtime)
