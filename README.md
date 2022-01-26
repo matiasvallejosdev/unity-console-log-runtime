@@ -27,10 +27,8 @@ This repository contains a unity package to show in-game debug logs at runtime. 
 
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
-- [Arquitecture](#arquitecture)
 - [Contributing](#contributing)
 - [Screenshoot](#screenshoot)
-- [Data Source](#data-source)
 - [Credits](#credits)
 - [Thanks](#thanks)
 
