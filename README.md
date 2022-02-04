@@ -15,7 +15,7 @@
 This repository contains a unity package to show in-game debug logs at runtime. With it you can maintain control when testing the application. It also has a save system once the session is over. You can use it in AR, VR applications and even within other video games.       <br /> <br />
   <a href="https://youtu.be/r8KI0I_i1r8" target="_blank">View Demo in Youtube</a> <br />
       <p align="center">
-      <a href="https://www.youtube.com/watch?v=yM04aaWbDEA&ab_channel=MatiasA.Vallejos" rel="nofollow">
+      <a href="https://youtu.be/r8KI0I_i1r8" rel="nofollow">
       <img src="https://github.com/matiasvallejosdev/unity-console-log-runtime/blob/main/docs/Gif%20(1).gif?raw=true" alt="Demo Video" width="250">
     </a>
   </p>
