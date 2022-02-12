@@ -13,7 +13,7 @@ namespace Editor.Tests.EditMode.Scenes
         [OneTimeSetUp]
         public void OneTimeSetUp()
         {
-            EditorSceneManager.OpenScene("Assets/Scenes/Example.unity");
+            EditorSceneManager.OpenScene("Assets/Scenes/ConsoleExample.unity");
         }
         
         [Test]

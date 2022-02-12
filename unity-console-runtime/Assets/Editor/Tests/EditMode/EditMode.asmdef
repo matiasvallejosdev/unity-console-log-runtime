@@ -4,9 +4,9 @@
     "references": [
         "UnityEngine.TestRunner",
         "UnityEditor.TestRunner",
-        "Scripts",
         "Unity.TextMeshPro",
-        "UniRx"
+        "UniRx",
+        "ConsoleScripts"
     ],
     "includePlatforms": [
         "Editor"
