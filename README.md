@@ -1,4 +1,4 @@
-<h1 align="center"> Unity Image Classifier </h1>
+<h1 align="center"> Unity Console Runtime </h1>
   <div align="center">
 
   [![GitHub release (latest by date)](https://img.shields.io/github/v/release/matiasvallejosdev/unity-console-log-runtime?color=4cc51e)](https://github.com/matiasvallejosdev/unity-console-log-runtime)
@@ -15,7 +15,7 @@
 This repository contains a unity package to show in-game debug logs at runtime. With it you can maintain control when testing the application. It also has a save system once the session is over. You can use it in AR, VR applications and even within other video games.       <br /> <br />
   <a href="https://youtu.be/r8KI0I_i1r8" target="_blank">View Demo in Youtube</a> <br />
       <p align="center">
-      <a href="https://www.youtube.com/watch?v=yM04aaWbDEA&ab_channel=MatiasA.Vallejos" rel="nofollow">
+      <a href="https://youtu.be/r8KI0I_i1r8" rel="nofollow">
       <img src="https://github.com/matiasvallejosdev/unity-console-log-runtime/blob/main/docs/Gif%20(1).gif?raw=true" alt="Demo Video" width="250">
     </a>
   </p>
@@ -27,21 +27,19 @@ This repository contains a unity package to show in-game debug logs at runtime. 
 
 - [Table of Contents](#table-of-contents)
 - [Installation](#installation)
-- [Arquitecture](#arquitecture)
 - [Contributing](#contributing)
 - [Screenshoot](#screenshoot)
-- [Data Source](#data-source)
 - [Credits](#credits)
 - [Thanks](#thanks)
 
 ## Installation
 
-1. Download unity packages from [here]("").
+1. Download unity packages from [here](https://github.com/matiasvallejosdev/unity-console-log-runtime/releases/download/v1.0.0/console-runtime.unitypackage).
 2. Add ConsoleAnchor prefab to Scene.
 3. Run tests files to check dependeces.
 4. Enjoy your Console.
 
-If you need to test console in AR, you can download .apk file [here]("") to test it on android devices. 
+If you need to test console in AR, you can download .apk file [here](https://github.com/matiasvallejosdev/unity-console-log-runtime/releases/download/v1.0.0/ar-console-runtime-test.apk) to test it on android devices. 
 
 ## Screenshoot
 Ar Application Screenshoot on Android Device.
